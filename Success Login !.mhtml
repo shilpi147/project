@@ -1,0 +1,27 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8000/Registration/success_login
+Subject: Success Login !
+Date: Thu, 22 Sep 2022 07:41:07 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--OlfeGWyF8ukypW4xfYRbt9chQH9dZFU4bamC2N9reU----"
+
+
+------MultipartBoundary--OlfeGWyF8ukypW4xfYRbt9chQH9dZFU4bamC2N9reU----
+Content-Type: text/html
+Content-ID: <frame-0D51AF6A79A23B418857FAD1CE045D6C@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:8000/Registration/success_login
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8">
+        <title>Success Login !</title>
+    </head>
+    <body style=3D"background-color:aquamarine" align=3D"center">
+        <h1>Successefully logged in !</h1>
+        <a href=3D"http://localhost:8000/Registration/view">click here to v=
+iew the details !</a>
+   =20
+</body></html>
+------MultipartBoundary--OlfeGWyF8ukypW4xfYRbt9chQH9dZFU4bamC2N9reU------

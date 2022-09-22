@@ -1,0 +1,27 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8000/Registration/success_regis
+Subject: Success Registation !
+Date: Thu, 22 Sep 2022 07:42:24 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--nR3y5wUH9pL8W92vndvVShcWjgeT4lSwsbvCiUgCg6----"
+
+
+------MultipartBoundary--nR3y5wUH9pL8W92vndvVShcWjgeT4lSwsbvCiUgCg6----
+Content-Type: text/html
+Content-ID: <frame-0D51AF6A79A23B418857FAD1CE045D6C@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:8000/Registration/success_regis
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8">
+        <title>Success Registation !</title>
+    </head>
+    <body>
+        <h2>Details have been saved successfully !</h2>
+        <a href=3D"http://localhost:8000/Registration/login">click here to =
+login !</a>
+   =20
+</body></html>
+------MultipartBoundary--nR3y5wUH9pL8W92vndvVShcWjgeT4lSwsbvCiUgCg6------

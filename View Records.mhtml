@@ -1,0 +1,82 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8000/Registration/view
+Subject: View Records
+Date: Thu, 22 Sep 2022 07:40:26 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--2kXwUo8O0XWeQv8lAZEkxaKwIlUQb3KMYjgcTc1GJu----"
+
+
+------MultipartBoundary--2kXwUo8O0XWeQv8lAZEkxaKwIlUQb3KMYjgcTc1GJu----
+Content-Type: text/html
+Content-ID: <frame-0D51AF6A79A23B418857FAD1CE045D6C@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:8000/Registration/view
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8">
+        <title>View Records</title>
+    </head>
+    <body style=3D"background-color:aquamarine">
+        <h1>Details of the user !</h1>
+        <table border=3D"5">
+            <tbody><tr><th>ID</th>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Mobile Number</th>
+            <th>Address</th>
+            <th>City</th>
+            <th>State</th>
+            <th>Pincode</th>
+            <th>Country</th>
+            <th>Company Name</th>
+            <th>Occupation</th>
+            <th>Years of experience</th>
+           =20
+           =20
+            </tr><tr></tr>
+                <tr><td>1</td>
+                <td>Shilpika</td>
+                <td>shilpikats5991@gmail.com</td>
+                <td>8861517972</td>
+                <td>#19 , Srinivas Nilaya , 2nd Main road, Vinyayak Nagar ,=
+ IAF Post , Yalahanka</td>
+                <td>Bangalore</td>
+                <td>Karnataka</td>
+                <td>560063</td>
+                <td>India</td>
+                <td>Cerner Corporation</td>
+                <td>TSA</td>
+                <td>2</td>
+
+               =20
+
+           =20
+            </tr><tr></tr>
+                <tr><td>2</td>
+                <td>Shilpika T S</td>
+                <td>shilpikats5991@gmail.com</td>
+                <td>8861517972</td>
+                <td>#19 , Srinivas Nilaya , 2nd Main road, Vinyayak Nagar ,=
+ IAF Post , Yalahanka</td>
+                <td>Bangalore</td>
+                <td>Karnataka</td>
+                <td>560063</td>
+                <td>India</td>
+                <td>Cerner Corporation</td>
+                <td>TSA</td>
+                <td>2</td>
+
+               =20
+
+           =20
+            </tr>
+        </tbody></table>
+        <br>
+        <br>
+        <a href=3D"http://localhost:8000/Registration/signup">Click here to=
+ go to Sign-Up page !</a>
+   =20
+</body></html>
+------MultipartBoundary--2kXwUo8O0XWeQv8lAZEkxaKwIlUQb3KMYjgcTc1GJu------
